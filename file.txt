@@ -1,3 +1,6 @@
 my first commit
 
 feature branch 1
+
+my feature branch 2
+
